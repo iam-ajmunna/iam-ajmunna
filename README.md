@@ -12,8 +12,7 @@ I aim to Live a Successful life and give my family all the happiness they deserv
   - MySQL
   - HTML
   - CSS</pre>
-  </i>  <br><br>
-
+  </i>  <br>
 <b>Contacts- </b><br>
 <pre>
    Facebook : <a href="https://www.facebook.com/iam.ajmunna"> Assaduzzaman Munna </a>
