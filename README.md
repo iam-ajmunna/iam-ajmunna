@@ -1,6 +1,10 @@
 <h1>#About-Me</h1><br>
 <b>Assalamu-Alaikum/Greetings,</b> <br><br>
-<p>Myself, Assaduzzaman Munna. Welcome To My Github Profile. Enjoy your Visit!</p><br><br>
+<p>👋 Hi, I’m Assaduzzaman Munna
+💻 Passionate about software development, embedded systems, and AI/ML
+🌱 Currently exploring full-stack development and real-world tech solutions
+🛠️ Love building meaningful projects that solve real problems
+📚 Lifelong learner | 🚀 Always up for a new challenge</p><br><br>
 <b>My Qualifications- </b>
   <i>
 <pre>  
@@ -10,7 +14,10 @@
   - MySQL
   - HTML
   - CSS
+  - JavaScript
   - Python
+  - Flutter
+  - Dart
 </pre>
   </i>  <br>
 <b>Contacts- </b><br>
