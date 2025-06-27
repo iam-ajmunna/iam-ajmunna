@@ -1,10 +1,10 @@
 <h1>#About-Me</h1><br>
 <b>Assalamu-Alaikum/Greetings,</b> <br><br>
-<p>👋 Hi, I’m Assaduzzaman Munna
+<pre>👋 Hi, I’m Assaduzzaman Munna
 💻 Passionate about software development, embedded systems, and AI/ML
 🌱 Currently exploring full-stack development and real-world tech solutions
 🛠️ Love building meaningful projects that solve real problems
-📚 Lifelong learner | 🚀 Always up for a new challenge</p><br><br>
+📚 Lifelong learner | 🚀 Always up for a new challenge</pre><br><br>
 <b>My Qualifications- </b>
   <i>
 <pre>  
