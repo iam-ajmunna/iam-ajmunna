@@ -1,7 +1,7 @@
 <h1>#About-Me</h1><br>
 <b>Assalamu-Alaikum/Greetings,</b> <br><br>
 <pre>👋 Hi, I’m Assaduzzaman Munna
-💻 Passionate about software development, embedded systems, and AI/ML
+💻 Passionate about AI/ML, software development, and  embedded systems
 🌱 Currently exploring full-stack development and real-world tech solutions
 🛠️ Love building meaningful projects that solve real problems
 📚 Lifelong learner | 🚀 Always up for a new challenge</pre><br><br>
