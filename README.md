@@ -1,23 +1,22 @@
 <h1>#About-Me</h1><br>
 <b>Assalamu-Alaikum/Greetings,</b> <br><br>
 <pre>👋 Hi, I’m Assaduzzaman Munna
-💻 Passionate about AI/ML, software development, and  embedded systems
-🌱 Currently exploring full-stack development and real-world tech solutions
-🛠️ Love building meaningful projects that solve real problems
+💻 Passionate about AI/ML, Software & Web development
+🌱 Currently exploring AI/ML/DL Neural Network optimization & Full-Stack Development
+🛠️ Love building meaningful projects that solve real-world problems
 📚 Lifelong learner | 🚀 Always up for a new challenge</pre><br><br>
 <b>My Qualifications- </b>
   <i>
-<pre>  
-  - C Program
-  - C++
+<pre> 
+  - Python
+  - Flutter (Dart Language)
   - Java
-  - MySQL
   - HTML
   - CSS
   - JavaScript
-  - Python
-  - Flutter
-  - Dart
+  - C Program
+  - C++
+  - MySQL
 </pre>
   </i>  <br>
 <b>Contacts- </b><br>
