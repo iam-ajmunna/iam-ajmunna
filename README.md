@@ -8,6 +8,7 @@
 <b>My Qualifications- </b>
   <i>
 <pre> 
+  - AI/ ML Engineer
   - Python
   - Flutter (Dart Language)
   - Java
