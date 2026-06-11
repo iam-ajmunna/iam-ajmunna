@@ -1,51 +1,101 @@
-# 🕹️ ASSADUZZAMAN (AJ) MUNNA
-
-> **AI/ML Engineer** | Optimizing neural networks, building real-time vision pipelines, and deploying to edge hardware.
-
-```text
- _________________________________________________________________
-/                                                                 \
-| SCORE: 099800      STAGE: 02      LIVES: [♥] [♥] [♥]            |
-|=================================================================|
-|                                                                 |
-|     [TRANSFORMERS]     [DATA_PIPELINES]      [EDGE_NODES]       |
-|       (████████)         (██████████)         (██████)          |
-|                                                                 |
-|                             * (Laser)                           |
-|                             |                                   |
-|                             |                                   |
-|                            / \                                  |
-|                           /===\                                 |
-|                          |iam-aj|                               |
-|_________________________________________________________________|
-\_________________________________________________________________/
-```
-
-### 🛰️ ACTIVE OPERATIONS (BIO)
-* 💼 **Current Mission**: Junior AI Engineer at **The Data Island** — developing scalable, enterprise-grade ML workflows.
-* 🎓 **Academic Base**: BSc in Computer Science & Engineering, CGPA 3.75/4.00, **North South University**.
-* 🏆 **High Score**: Published first-author paper on Vision Transformers in **IEEE SATC 2026** (Houston, TX).
-
-### 🛠️ NEURAL WEAPONS (TECH STACK)
-* **AI & ML**: PyTorch, TensorFlow, Hugging Face, OpenCV, NVIDIA DeepStream, MLOps, Knowledge Distillation
-* **Languages**: Python, C++, JavaScript, Dart, Java, LaTeX
-* **Software**: React.js, Next.js, Flutter, Docker, SQL, Git
-
-### 📊 SYSTEM METRICS (GITHUB STATS)
+<!-- SPACE SHOOTER — auto-updated daily via GitHub Actions -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iam-ajmunna&show_icons=true&bg_color=0d1117&title_color=00f0ff&text_color=ffffff&icon_color=ff007f&border_color=30363d&hide_rank=false" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-ajmunna&layout=compact&bg_color=0d1117&title_color=00f0ff&text_color=ffffff&icon_color=ff007f&border_color=30363d&langs_count=6" width="48%" />
+  <img src="./game.gif" alt="GitHub Contributions as Space Shooter" width="100%" />
 </div>
 
-### 📡 CONNECT LINK
+<!-- Setup: add czl9707/gh-space-shooter Action to .github/workflows/update-game.yml -->
+<!-- See: https://github.com/czl9707/gh-space-shooter -->
+
+<br/>
+
 <div align="center">
-  <br />
-  <a href="https://linkedin.com/in/iamajmunna">
-    <img src="https://img.shields.io/badge/LINKEDIN-00F0FF?style=for-the-badge&logo=linkedin&logoColor=05080E&labelColor=00F0FF" />
-  </a>
-  &nbsp;&nbsp;
+  <a href="https://iam-ajmunna.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=ffffff&color=000000" alt="Portfolio"/>
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/iamajmunna" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=ffffff&color=000000" alt="LinkedIn"/>
+  </a>&nbsp;
   <a href="mailto:iam.ajmunna@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-FF007F?style=for-the-badge&logo=gmail&logoColor=05080E&labelColor=FF007F" />
+    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=ffffff&color=000000" alt="Email"/>
+  </a>&nbsp;
+  <a href="https://github.com/iam-ajmunna" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=ffffff&color=000000" alt="GitHub"/>
   </a>
 </div>
+
+<br/>
+
+<div align="center">
+  <b>Deep Learning &nbsp;•&nbsp; Computer Vision &nbsp;•&nbsp; Edge AI </b>
+</div>
+
+<br/>
+
+---
+
+### `~/tech-stack`
+
+<br/>
+
+<table align="center" width="88%">
+  <tr>
+    <td align="right" width="22%"><sub><b>LANGUAGES</b></sub></td>
+    <td>
+      <kbd>Python</kbd>&nbsp;
+      <kbd>C++</kbd>&nbsp;
+      <kbd>JavaScript</kbd>&nbsp;
+      <kbd>Dart</kbd>&nbsp;
+      <kbd>Java</kbd>&nbsp;
+      <kbd>LaTeX</kbd>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>AI · ML · CV</b></sub></td>
+    <td>
+      <kbd>PyTorch</kbd>&nbsp;
+      <kbd>TensorFlow</kbd>&nbsp;
+      <kbd>Hugging Face</kbd>&nbsp;
+      <kbd>SAM</kbd>&nbsp;
+      <kbd>Transformers</kbd>&nbsp;
+      <kbd>OpenCV</kbd>&nbsp;
+      <kbd>NVIDIA DeepStream</kbd>&nbsp;
+      <kbd>Knowledge Distillation</kbd>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>DATABASES</b></sub></td>
+    <td>
+      <kbd>SQL</kbd>&nbsp;
+      <kbd>PostgreSQL</kbd>&nbsp;
+      <kbd>MySQL</kbd>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>DEVOPS & TOOLS</b></sub></td>
+    <td>
+      <kbd>Docker</kbd>&nbsp;
+      <kbd>Linux (Ubuntu)</kbd>&nbsp;
+      <kbd>FFmpeg</kbd>&nbsp;
+      <kbd>Git</kbd>&nbsp;
+      <kbd>MLOps</kbd>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>FRONTEND · APPS</b></sub></td>
+    <td>
+      <kbd>React.js</kbd>&nbsp;
+      <kbd>Next.js</kbd>&nbsp;
+      <kbd>Flutter</kbd>&nbsp;
+      <kbd>RESTful APIs</kbd>&nbsp;
+      <kbd>System Design</kbd>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <sub><code>// engineering intelligence </code></sub>
+</div>
+
+<br/>
