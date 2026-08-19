@@ -56,18 +56,31 @@
       <kbd>TensorFlow</kbd>&nbsp;
       <kbd>Hugging Face</kbd>&nbsp;
       <kbd>SAM</kbd>&nbsp;
-      <kbd>Transformers</kbd>&nbsp;
+      <kbd>Vision Transformers</kbd>&nbsp;
       <kbd>OpenCV</kbd>&nbsp;
       <kbd>NVIDIA DeepStream</kbd>&nbsp;
       <kbd>Knowledge Distillation</kbd>
     </td>
   </tr>
   <tr>
-    <td align="right"><sub><b>DATABASES</b></sub></td>
+    <td align="right"><sub><b>GENAI & NLP</b></sub></td>
     <td>
+      <kbd>LLMs</kbd>&nbsp;
+      <kbd>Agentic RAG</kbd>&nbsp;
+      <kbd>LangChain</kbd>&nbsp;
+      <kbd>Vector Databases</kbd>&nbsp;
+      <kbd>Fine-Tuning (PEFT/LoRA)</kbd>&nbsp;
+      <kbd>NLP</kbd>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>CLOUD & DATA</b></sub></td>
+    <td>
+      <kbd>Google Cloud (GCP)</kbd>&nbsp;
+      <kbd>BigQuery</kbd>&nbsp;
       <kbd>SQL</kbd>&nbsp;
-      <kbd>PostgreSQL</kbd>&nbsp;
-      <kbd>MySQL</kbd>
+      <kbd>Pandas</kbd>&nbsp;
+      <kbd>NumPy</kbd>
     </td>
   </tr>
   <tr>
